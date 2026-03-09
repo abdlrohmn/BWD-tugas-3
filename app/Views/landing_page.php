@@ -90,6 +90,6 @@
     </main>
 
     <!-- Menghubungkan file logika bisnis (Harus ditaruh paling bawah sebelum tutup body) -->
-    <script src="script.js"></script>
+    <script src="<?= base_url('js/script.js') ?>"></script>
 </body>
 </html>
